@@ -1,0 +1,7 @@
+algo: a2c
+config: {}
+eval_freq: 10000
+n_envs: 4
+save_freq: 50000
+seed: 42
+timesteps: 100000

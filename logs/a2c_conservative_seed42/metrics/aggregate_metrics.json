@@ -1,0 +1,35 @@
+{
+  "total_episodes": 52,
+  "avg_score": 0.0,
+  "max_score": 0.0,
+  "avg_lines": 0.0,
+  "max_lines": 0.0,
+  "avg_survival_time": 1839.5,
+  "avg_pieces_placed": 19.75,
+  "avg_lines_per_piece": 0.0,
+  "avg_tetris_rate": 0.0,
+  "avg_invalid_action_rate": 0.1591137467176706,
+  "action_distribution": {
+    "rotations": 2124,
+    "left_moves": 45763,
+    "right_moves": 44975,
+    "soft_drops": 734,
+    "hard_drops": 63,
+    "no_ops": 1995
+  },
+  "piece_usage": {
+    "I": 145,
+    "O": 143,
+    "T": 144,
+    "L": 148,
+    "J": 148,
+    "S": 145,
+    "Z": 154
+  },
+  "line_clears": {
+    "singles": 0,
+    "doubles": 0,
+    "triples": 0,
+    "tetrises": 0
+  }
+}

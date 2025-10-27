@@ -1,0 +1,14 @@
+{
+  "total_episodes": 16735,
+  "total_wins": 0,
+  "overall_win_rate": 0.0,
+  "avg_guesses_when_won": 0,
+  "guess_distribution": {
+    "1_guesses": 0,
+    "2_guesses": 0,
+    "3_guesses": 0,
+    "4_guesses": 0,
+    "5_guesses": 0,
+    "6_guesses": 0
+  }
+}

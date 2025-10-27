@@ -1,0 +1,45 @@
+{
+  "algo": "ppo",
+  "timesteps": 100000,
+  "seed": 42,
+  "n_envs": 4,
+  "save_freq": 50000,
+  "eval_freq": 10000,
+  "config": {},
+  "training_time_seconds": 216.505053,
+  "final_metrics": {
+    "total_episodes": 506,
+    "avg_score": 0.23715415019762845,
+    "max_score": 40.0,
+    "avg_lines": 0.005928853754940711,
+    "max_lines": 1.0,
+    "avg_survival_time": 208.65415019762847,
+    "avg_pieces_placed": 14.733201581027668,
+    "avg_lines_per_piece": 0.00033006060062191437,
+    "avg_tetris_rate": 0.0,
+    "avg_invalid_action_rate": 0.042007094744168166,
+    "action_distribution": {
+      "rotations": 17595,
+      "left_moves": 24410,
+      "right_moves": 26011,
+      "soft_drops": 10621,
+      "hard_drops": 6433,
+      "no_ops": 20509
+    },
+    "piece_usage": {
+      "I": 1072,
+      "O": 1063,
+      "T": 1079,
+      "L": 1056,
+      "J": 1046,
+      "S": 1078,
+      "Z": 1061
+    },
+    "line_clears": {
+      "singles": 3,
+      "doubles": 0,
+      "triples": 0,
+      "tetrises": 0
+    }
+  }
+}
