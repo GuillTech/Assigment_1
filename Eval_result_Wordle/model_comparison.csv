@@ -1,0 +1,3 @@
+Model,Win_Rate,Total_Wins,Avg_Guesses_Overall,Avg_Guesses_Wins,Avg_Reward,Avg_Repeated_Guesses,Guess_1,Guess_2,Guess_3,Guess_4,Guess_5,Guess_6
+models,0.016,8,5.976,4.5,[-1.97786597],0.06,0,1,0,3,2,2
+models,0.01,5,5.978,3.8,[-1.27073242],0.12,1,0,0,2,2,0

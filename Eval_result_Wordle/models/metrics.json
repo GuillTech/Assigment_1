@@ -1,0 +1,82 @@
+{
+  "total_episodes": 500,
+  "total_wins": 5,
+  "total_losses": 495,
+  "win_rate": 0.01,
+  "avg_reward": [
+    -1.270732421875
+  ],
+  "avg_guesses": 5.978,
+  "avg_guesses_when_won": 3.8,
+  "avg_guesses_when_lost": 6.0,
+  "avg_unique_guesses": 5.858,
+  "avg_repeated_guesses": 0.12,
+  "guess_distribution": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 2,
+    "6": 0
+  },
+  "hardest_words": [
+    {
+      "word": "PRIOR",
+      "win_rate": 0.0,
+      "attempts": 7
+    }
+  ],
+  "easiest_words": [
+    {
+      "word": "PRIOR",
+      "win_rate": 0.0,
+      "attempts": 7
+    }
+  ],
+  "most_common_winning_sequences": [
+    {
+      "sequence": [
+        "NEEDS",
+        "DRAFT",
+        "IRATE",
+        "SIXTY"
+      ],
+      "count": 1
+    },
+    {
+      "sequence": [
+        "ANGEL",
+        "DANCE",
+        "STYLE",
+        "PLACE",
+        "SNARE"
+      ],
+      "count": 1
+    },
+    {
+      "sequence": [
+        "TOWER",
+        "VOICE",
+        "BEING",
+        "TRIED"
+      ],
+      "count": 1
+    },
+    {
+      "sequence": [
+        "RAPID"
+      ],
+      "count": 1
+    },
+    {
+      "sequence": [
+        "VISIT",
+        "THREE",
+        "LYING",
+        "PRINT",
+        "SHINE"
+      ],
+      "count": 1
+    }
+  ]
+}
